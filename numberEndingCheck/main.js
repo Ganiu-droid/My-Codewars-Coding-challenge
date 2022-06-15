@@ -2,7 +2,7 @@ function checkEnding(num1, num2, num3) {
     //use tenary operator to return a boolean 
     return (num1 % 10 === num2 % 10 && num1 % 10 === num3 % 10 && num2 % 10 === num3 % 10) ? true:false; 
 }
-
+//Test various numbers again different factors
 console.log(checkEnding(20,30,40));
 console.log(checkEnding(201,301,401));
 console.log(checkEnding(202,30,401));
