@@ -10,3 +10,4 @@ console.log(checkEnding(2032,32,3212));
 console.log(checkEnding(205,305,455));
 console.log(checkEnding(2023,303,3333));
 console.log(checkEnding(2,2,2));
+console.log(checkEnding(0,0,0));
