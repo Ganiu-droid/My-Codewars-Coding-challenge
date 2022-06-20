@@ -24,3 +24,4 @@ console.log(createStr('ap'));
 console.log(createStr('g'));
 console.log(createStr('lkfra'));
 console.log(createStr('fra54wrwswe6twer'));
+console.log(createStr('3dfewwaetrewswe6twer'));
